@@ -1,2 +1,2 @@
-# AI-9-
-AI 스쿨 9기 수강 동안 배운 내용 기
+# AI-SCHOOL 9기 Final Project
+AI 스쿨 9기 Final Project 기록
