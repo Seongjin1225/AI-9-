@@ -5,11 +5,11 @@ AI 스쿨 9기 Final Project 기록
 Kaggle에 올라온 공모전에 참가하는 방향으로 프로젝트를 결정
 ![image](https://github.com/Seongjin1225/AI_School_9th_Final_Project_TEAM_3/assets/114036940/3d08ca36-7039-4b0d-bf45-9c0da51955e9)
 https://www.kaggle.com/competitions/blood-vessel-segmentation/overview
-신장 CT 사진에서 혈관을 찾아내는 Image Segmentation 작업 프로젝트
+- 신장 CT 사진에서 혈관을 찾아내는 Image Segmentation 작업 프로젝트
 -----------
 # 기본 모델
 Medical Image Segmentation 분야에서 뛰어난 성능을 보인 U-Net Architecture를 프로젝트의 기본 모델로 선정
 ![image](https://github.com/Seongjin1225/AI_School_9th_Final_Project_TEAM_3/assets/114036940/732bb591-d07b-4dfa-a40e-830f25b86b4c)
-U-Net은 수축경로(encoder)와 확장경로(decoder)가 U자 형태로 구성된 구조를 가지고 있다
-두 경로는 서로 대칭적이며 이 부분을 연결하는 역할을 하는 것이 브릿지(Bridge)
-인코더와 디코더 모두 3X3 Convolution을 사용
+- U-Net은 수축경로(encoder)와 확장경로(decoder)가 U자 형태로 구성된 구조를 가지고 있다
+- 두 경로는 서로 대칭적이며 이 부분을 연결하는 역할을 하는 것이 브릿지(Bridge)
+- 인코더와 디코더 모두 3X3 Convolution을 사용
